@@ -1,5 +1,5 @@
 # Hallifax
-Síntese:  Sistema complementar para Locação de Materiais de Construção desenvolvido em Delphi bem atual (Rio -  10.3) utilizando MVC, boas práticas, Clean Code,  MVC, ORM (Mapeamento objeto relacional), DAO (Direct Acess Object), Programação funcional, Design responsivo,  Programação Orientada a Objeto com interface sobre as classes concretas e com possibilidade de gerar UML e visual baseado em Designer Ux.
+Síntese:  Sistema complementar para Locação de Materiais de Construção desenvolvido em Delphi bem atual (Rio -  10.3) utilizando boas práticas, Clean Code,  MVC, ORM (Mapeamento objeto relacional), DAO (Direct Acess Object), Programação funcional, Design responsivo,  Programação Orientada a Objeto com interface sobre as classes concretas e com possibilidade de gerar UML e visual baseado em Designer Ux.
 
 boas práticas, clean code, telas responsivas
 
