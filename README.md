@@ -1,8 +1,6 @@
 # Hallifax
 Síntese:  Sistema complementar para Locação de Materiais de Construção desenvolvido em Delphi bem atual (Rio -  10.3) utilizando boas práticas, Clean Code,  MVC, ORM (Mapeamento objeto relacional), DAO (Direct Acess Object), Programação funcional, Design responsivo,  Programação Orientada a Objeto com interface sobre as classes concretas e com possibilidade de gerar UML e visual baseado em Designer Ux.
 
-boas práticas, clean code, telas responsivas
-
 Descrição: Sistema para Locação de Materiais de Construção (vide observação 2) desenvolvido em Delphi bem atual (Rio) com boas prática e, também:
 
 - Uso do firedac que permite acessar base de dados Firebird (aqui utilizado), MySQL, PostgreeSQL, Oracle, SQL Server, SQLite. OBS> Não há uso de DM pois as conexões são criadas em tempo de execução
