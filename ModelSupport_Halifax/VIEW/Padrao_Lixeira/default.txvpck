@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet version="1.0">
+  <view uin="rr13uxbn40m2erd0n_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="10,10,210,402" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Panel1" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Rb_Sim" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Rb_Nao" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Label2" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Label3" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Pa_Confirmado" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.La_Confirmado" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.SpBtn_Confirmado" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Panel2" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Label1" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Panel3" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.La_Dados" />
+      <reference referencedUin="delphi:e_method:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.FormShow(System.TObject)" />
+      <reference referencedUin="delphi:e_method:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.SpBtn_ConfirmadoClick(System.TObject)" />
+      <reference referencedUin="delphi:e_method:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.FormClose(System.TObject,ref@System.UITypes.TCloseAction)" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Fdados" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.FLixeira" />
+      <reference referencedUin="delphi:e_method:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Setdados(System.string)" />
+      <reference referencedUin="delphi:e_method:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.SetLixeira(System.Boolean)" />
+      <reference referencedUin="delphi:e_property:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.dados" />
+      <reference referencedUin="delphi:e_property:src:Halifax:View.Padrao_Lixeira.TForm_ConfirmaLixeira.Lixeira" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Halifax:View.Padrao_Lixeira.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:Halifax:View.Padrao_Lixeira.@unitclass.Form_ConfirmaLixeira" />
+      <reference referencedUin="delphi:l_ast:src:Halifax:View.Padrao_Lixeira.@unitclass.Form_ConfirmaLixeira" />
+    </reference>
+  </view>
+</nodeSet>

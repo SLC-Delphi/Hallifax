@@ -1,0 +1,12 @@
+ EXECUTE PROCEDURE CAD_LOC_M1_CAD_USUARIO (
+'1', 
+'ABUDAB', 
+'BR491', 
+ '.' ,
+ '01.01.0001', 
+'29.09/2020', 
+'16:27:16', 
+'Souummero Testador', 
+    'ATUALIZAR' ,
+ 'NAO', 
+'7');

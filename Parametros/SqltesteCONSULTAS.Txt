@@ -1,0 +1,2 @@
+Select * From EMPRESA Where 1=1 
+ order by CODIGO

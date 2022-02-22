@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.Hallifax.Controller" Type="System.String" Value="Hallifax\Controller" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Hallifax" Type="System.String" Value="Hallifax" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Halifax.Controller.Cad_UsuariosIB_Interface" Type="System.String" Value="Halifax\Controller\Cad_UsuariosIB_Interface" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Halifax.Controller.Cad_UsuariosIB" Type="System.String" Value="Halifax\Controller\Cad_UsuariosIB" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Halifax.Controller.Cad_UsuariosFD_Interface" Type="System.String" Value="Halifax\Controller\Cad_UsuariosFD_Interface" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Halifax.Controller.Cad_UsuarioFD" Type="System.String" Value="Halifax\Controller\Cad_UsuarioFD" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Halifax.Controller.Cad_PermissoesFD" Type="System.String" Value="Halifax\Controller\Cad_PermissoesFD" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Halifax.Controller.Cad_PermissoesFD_Interface" Type="System.String" Value="Halifax\Controller\Cad_PermissoesFD_Interface" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Halifax.Controller.Cad_ConsultasFD_Interface" Type="System.String" Value="Halifax\Controller\Cad_ConsultasFD_Interface" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Halifax.Controller.Cad_ConsultasFD" Type="System.String" Value="Halifax\Controller\Cad_ConsultasFD" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Halifax.Controller" Type="System.String" Value="Halifax\Controller" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Hallifax.Controller.Produtos.ProdutosPreco_Interface" Type="System.String" Value="Hallifax\Controller\Produtos\ProdutosPreco_Interface" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Hallifax.Controller.Produtos.ProdutosPreco" Type="System.String" Value="Hallifax\Controller\Produtos\ProdutosPreco" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Hallifax.Controller.Produtos.ProdutosEstoque_Interface" Type="System.String" Value="Hallifax\Controller\Produtos\ProdutosEstoque_Interface" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Hallifax.Controller.Produtos.ProdutosEstoque" Type="System.String" Value="Hallifax\Controller\Produtos\ProdutosEstoque" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Hallifax.Controller.Produtos.Produtos_Interface" Type="System.String" Value="Hallifax\Controller\Produtos\Produtos_Interface" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Hallifax.Controller.Produtos.Produtos" Type="System.String" Value="Hallifax\Controller\Produtos\Produtos" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Hallifax.Controller.Produtos" Type="System.String" Value="Hallifax\Controller\Produtos" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Halifax" Type="System.String" Value="Halifax" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Model_Conexao_FDAC" Type="System.String" Value="Model_Conexao_FDAC" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Model_Conexao_IB" Type="System.String" Value="Model_Conexao_IB" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Model_Conexao_Interface" Type="System.String" Value="Model_Conexao_Interface" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Model_DAO_Cad_Consultas_FDAC" Type="System.String" Value="Model_DAO_Cad_Consultas_FDAC" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Model_DAO_Cad_Permissoes_FDAC" Type="System.String" Value="Model_DAO_Cad_Permissoes_FDAC" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.VIEW_Cadastros.UsuariosConsultas" Type="System.String" Value="VIEW_Cadastros\UsuariosConsultas" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.VIEW_Cadastros.UsuariosCadastros" Type="System.String" Value="VIEW_Cadastros\UsuariosCadastros" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.VIEW_Cadastros.PermissoesCadastros" Type="System.String" Value="VIEW_Cadastros\PermissoesCadastros" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.VIEW_Cadastros.Consultas" Type="System.String" Value="VIEW_Cadastros\Consultas" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.VIEW_Cadastros" Type="System.String" Value="VIEW_Cadastros" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.VIEW.Produtos.ProdutosConsultas" Type="System.String" Value="VIEW\Produtos\ProdutosConsultas" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.VIEW.Produtos" Type="System.String" Value="VIEW\Produtos" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.VIEW.Cadastros" Type="System.String" Value="VIEW\Cadastros" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.View.Padrao_Lixeira" Type="System.String" Value="View\Padrao_Lixeira" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Model.ORM_Loc_M1_Cad_Permissoes" Type="System.String" Value="Model\ORM_Loc_M1_Cad_Permissoes" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Model.ORM_Loc_M1_Cad_Usuario" Type="System.String" Value="Model\ORM_Loc_M1_Cad_Usuario" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Model" Type="System.String" Value="Model" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.MODEL.ORM_Loc_M1_Locacao" Type="System.String" Value="MODEL\ORM_Loc_M1_Locacao" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.MODEL.ORM_Loc_M1_ProdutosEstoque" Type="System.String" Value="MODEL\ORM_Loc_M1_ProdutosEstoque" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.MODEL.ORM_Loc_M1_ProdutosPreco" Type="System.String" Value="MODEL\ORM_Loc_M1_ProdutosPreco" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.MODEL" Type="System.String" Value="MODEL" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Parametros" Type="System.String" Value="Parametros" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.VIEW" Type="System.String" Value="VIEW" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.View" Type="System.String" Value="View" Category="General" IsBrowsable="False" />
+</TgConfig>

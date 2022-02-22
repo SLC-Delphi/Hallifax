@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.LocacaoAC" Type="System.String" Value="LocacaoAC" Category="General" IsBrowsable="False" />
+  <Option Name="Gendoc.Images" Type="System.Boolean" Value="True" Category="General" IsBrowsable="False" />
+  <Option Name="Gendoc.NavigationTree" Type="System.Boolean" Value="True" Category="General" IsBrowsable="False" />
+  <Option Name="Gendoc.LaunchBrowser" Type="System.Boolean" Value="True" Category="General" IsBrowsable="False" />
+  <Option Name="Gendoc.OutputFolder" Type="System.String" Value="C:\DF_LocacaoM1\out\doc" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ufTESTE" Type="System.String" Value="ufTESTE" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Model_DAO_Cad_Usuario_Interface" Type="System.String" Value="Model_DAO_Cad_Usuario_Interface" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ufTESTE.Namespace1" Type="System.String" Value="ufTESTE\Namespace1" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ufTESTE.p" Type="System.String" Value="ufTESTE\p" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ufCad_Usuario_Teste" Type="System.String" Value="ufCad_Usuario_Teste" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Model_Conexao_FDAC" Type="System.String" Value="Model_Conexao_FDAC" Category="General" IsBrowsable="False" />
+</TgConfig>

@@ -1,0 +1,2 @@
+Select * From LOC_M1_CAD_PERMISSOES
+ Where CODIGO_USUARIO = :sId 

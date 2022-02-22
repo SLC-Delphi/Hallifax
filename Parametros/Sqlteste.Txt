@@ -1,0 +1,2 @@
+Select * From LOC_M1_CAD_USUARIO Where (Lixeira = 'NAO') 
+ order by DATA_CADASTRO

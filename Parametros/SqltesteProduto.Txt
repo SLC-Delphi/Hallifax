@@ -1,0 +1,2 @@
+Select * From LOC_M1_PRODUTOS Where (Lixeira = 'NAO') 
+ order by CODIGO

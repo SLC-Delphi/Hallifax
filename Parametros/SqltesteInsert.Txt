@@ -1,0 +1,39 @@
+ Insert into LOC_M1_CAD_PERMISSOES (
+CODIGO_USUARIO          
+,CLIENTES_CONSULTA      
+,CLIENTES_RELATORIO     
+,FORNECEDORES_CONSULTA  
+,GRUPOS_CONSULTA        
+,PERMISSOES             
+,USUARIOS               
+,PRODUTOS               
+,PRODUTO_PRECOS         
+,PRODUTO_ESTOQUES       
+,PRODUTO_MANUTENCOES    
+,LOCACAO_LANCAMENTO     
+,LOCACAO_CANCELAMENTO   
+,LOCACAO_EDICAO         
+,RELATORIOS_ESTOQUES    
+,RELATORIOS_LOCACAO     
+,DT_UMOD                
+,USUARIO                
+ ) Values ( 
+'5'
+, '1'
+, '0'
+, '1'
+, '1'
+, '0'
+, '0'
+, '0'
+, '0'
+, '0'
+, '0'
+, '0'
+, '0'
+, '0'
+, '0'
+, '0'
+, '24.09.2020'
+, 'Souummero Testador'
+  )
