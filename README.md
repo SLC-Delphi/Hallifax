@@ -3,8 +3,8 @@ Síntese:  Sistema complementar para Locação de Materiais de Construção dese
 
 Descrição: Sistema para Locação de Materiais de Construção (vide observação 2) desenvolvido em Delphi bem atual (Rio) com boas prática e, também:
 
-- Uso do firedac que permite acessar base de dados Firebird (aqui utilizado), MySQL, PostgreeSQL, Oracle, SQL Server, SQLite
-- 
+- Uso do firedac que permite acessar base de dados Firebird (aqui utilizado), MySQL, PostgreeSQL, Oracle, SQL Server, SQLite. OBS> Não há uso de DM pois as conexões são criadas em tempo de execução
+
 - Visual baseado em Design Ux / Ui
 
 - Clean Code
@@ -19,13 +19,13 @@ Descrição: Sistema para Locação de Materiais de Construção (vide observaç
 
 - DAO (Direct Acess Object) desenvolvido seguindo os padrões do Design Pattern chamado Repository
 
-- Nomeação de arquivos seguindo os princípios do Delphi para geração de UML (caso necessário)
-
 - MVC - Model View Controller
 
 - Stored Procedures no banco de dados (vide arquivo StorePeocedureCriar.txt): O uso das store procedures com comandos simples e essencias do Firebird que podem facilmente serem adaptados para outros SGBD.
 
 - Designer/visual responsivo - basta testa mudar a resolução do monitor e notará que a tela e o todo o visual do sistema se adptará.
+
+- Nomeação de arquivos seguindo os princípios do Delphi para geração de UML (caso necessário)
 
 - O Arquivo caminho.txt possui apenas 1 linha, na qual se define o local e o nome do banco de dados. Uma forma bem simples e fácil de definir a localização do bando de dados. Caso esteje em uma rede antes da definição da pasta, basta colocar o endereço de rede.
 
