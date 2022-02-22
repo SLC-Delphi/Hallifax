@@ -1,8 +1,10 @@
 # Hallifax
-Síntese:  Sistema complementar para Locação de Materiais de Construção desenvolvido em Delphi bem atual (Rio -  10.3) utilizando MVC, boas práticas, Clean Code, Programação funcional, Programação Orientada a Objeto com interface sobre as classes concretas e com possibilidade de gerar UML e visual baseado em Designer Ux / Ui
+Síntese:  Sistema complementar para Locação de Materiais de Construção desenvolvido em Delphi bem atual (Rio -  10.3) utilizando MVC, boas práticas, Clean Code, Programação funcional, Design responsivo,  Programação Orientada a Objeto com interface sobre as classes concretas e com possibilidade de gerar UML e visual baseado em Designer Ux / Ui
 
 Descrição: Sistema para Locação de Materiais de Construção (vide observação 2) desenvolvido em Delphi bem atual (Rio) com boas prática e, também:
 
+- Uso do firedac que permite acessar base de dados Firebird (aqui utilizado), MySQL, PostgreeSQL, Oracle, SQL Server, SQLite
+- 
 - Visual baseado em Design Ux / Ui
 
 - Clean Code
@@ -17,8 +19,11 @@ Descrição: Sistema para Locação de Materiais de Construção (vide observaç
 
 - MVC - Model View Controller
 
-- Stored Procedures no banco de dados (vide arquivo StorePeocedureCriar.txt)
+- Stored Procedures no banco de dados (vide arquivo StorePeocedureCriar.txt): O uso das store procedures com comandos simples e essencias do Firebird que podem facilmente serem adaptados para outros SGBD.
 
+- Designer/visual responsivo - basta testa mudar a resolução do monitor e notará que a tela e o todo o visual do sistema se adptará.
+
+- O Arquivo caminho.txt possui apenas 1 linha, na qual se define o local e o nome do banco de dados. Uma forma bem simples e fácil de definir a localização do bando de dados. Caso esteje em uma rede antes da definição da pasta, basta colocar o endereço de rede.
 
 
 Observação 1: Delphi 10.3.1 Rio ou superior. Tanto faz compilar para WIN32 ou WIN64. Foi testado no Berlim e também funcionou. Não funcionou no XE6 devido ao uso de recursos de versões mais recentes.
