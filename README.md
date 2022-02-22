@@ -17,6 +17,8 @@ Descrição: Sistema para Locação de Materiais de Construção (vide observaç
 
 - MVC - Model View Controller
 
+- Stored Procedures no banco de dados (vide arquivo StorePeocedureCriar.txt)
+
 
 
 Observação 1: Delphi 10.3.1 Rio ou superior. Tanto faz compilar para WIN32 ou WIN64. Foi testado no Berlim e também funcionou. Não funcionou no XE6 devido ao uso de recursos de versões mais recentes.
