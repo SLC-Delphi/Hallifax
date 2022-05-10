@@ -215,8 +215,8 @@ object View_UsuariosConsultas: TView_UsuariosConsultas
       object La_BotaoNovo: TLabel
         Left = 0
         Top = 0
-        Width = 125
-        Height = 40
+        Width = 44
+        Height = 18
         Align = alClient
         Alignment = taCenter
         Caption = 'NOVO'
@@ -227,8 +227,6 @@ object View_UsuariosConsultas: TView_UsuariosConsultas
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitWidth = 44
-        ExplicitHeight = 18
       end
       object SpBt_Novo: TSpeedButton
         Left = 0
@@ -257,8 +255,8 @@ object View_UsuariosConsultas: TView_UsuariosConsultas
       object La_BotaoEditar: TLabel
         Left = 0
         Top = 0
-        Width = 125
-        Height = 40
+        Width = 54
+        Height = 18
         Align = alClient
         Alignment = taCenter
         Caption = 'EDITAR'
@@ -269,8 +267,6 @@ object View_UsuariosConsultas: TView_UsuariosConsultas
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitWidth = 54
-        ExplicitHeight = 18
       end
       object SpBtn_Editar: TSpeedButton
         Left = 0
@@ -299,8 +295,8 @@ object View_UsuariosConsultas: TView_UsuariosConsultas
       object La_BotaoPermissoes: TLabel
         Left = 0
         Top = 0
-        Width = 125
-        Height = 40
+        Width = 100
+        Height = 18
         Align = alClient
         Alignment = taCenter
         Caption = 'PERMISSOES'
@@ -311,8 +307,6 @@ object View_UsuariosConsultas: TView_UsuariosConsultas
         Font.Style = [fsBold]
         ParentFont = False
         Layout = tlCenter
-        ExplicitWidth = 100
-        ExplicitHeight = 18
       end
       object spBtn_Permissoes: TSpeedButton
         Left = 0
@@ -348,14 +342,12 @@ object View_UsuariosConsultas: TView_UsuariosConsultas
       object La_BotaoLixeira: TLabel
         Left = 37
         Top = 0
-        Width = 88
-        Height = 38
+        Width = 73
+        Height = 21
         Align = alClient
         Alignment = taCenter
         Caption = 'LIXEIRA'
         Layout = tlCenter
-        ExplicitWidth = 73
-        ExplicitHeight = 21
       end
       object SpBt_Lixeira: TSpeedButton
         Left = 37

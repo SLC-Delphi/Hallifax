@@ -217,6 +217,7 @@ begin
   La_Op3MenuCadastros.Font.Color := FONTCOLORDISABLE;
   La_BotaoUsuarios.Font.Color := FONTCOLORDISABLE;
   La_BotaoProdutos.Font.Color := FONTCOLORDISABLE;
+  La_BotaoLocacoes.Font.Color := FONTCOLORDISABLE;
 end;
 
 
@@ -360,6 +361,7 @@ begin
   La_Op3MenuCadastros.Font.Color := FONTCOLOR;
   La_BotaoUsuarios.Font.Color := FONTCOLOR;
   La_BotaoProdutos.Font.Color := FONTCOLOR;
+  La_BotaoLocacoes.Font.Color := FONTCOLOR;
 end;
 
 end.

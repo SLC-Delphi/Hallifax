@@ -3699,10 +3699,10 @@ object VIEW_Login: TVIEW_Login
     object La_AparenciaPrincipal: TLabel
       Left = 219
       Top = 25
-      Width = 47
+      Width = 40
       Height = 19
       Align = alCustom
-      Caption = 'Escuro'
+      Caption = 'GELO'
       Layout = tlBottom
     end
     object Label6: TLabel
@@ -3726,10 +3726,10 @@ object VIEW_Login: TVIEW_Login
     object La_AparenciaDados: TLabel
       Left = 219
       Top = 50
-      Width = 32
+      Width = 61
       Height = 19
       Align = alCustom
-      Caption = 'Gelo'
+      Caption = 'ESCURO'
       Layout = tlBottom
     end
     object Trb_AparenciaPrincipal: TTrackBar
@@ -3745,7 +3745,7 @@ object VIEW_Login: TVIEW_Login
       Max = 2
       ParentCtl3D = False
       PageSize = 1
-      Position = 2
+      Position = 1
       ShowSelRange = False
       TabOrder = 0
       TickMarks = tmTopLeft
@@ -3764,7 +3764,7 @@ object VIEW_Login: TVIEW_Login
       Max = 2
       ParentCtl3D = False
       PageSize = 1
-      Position = 1
+      Position = 2
       ShowSelRange = False
       TabOrder = 1
       TickMarks = tmTopLeft

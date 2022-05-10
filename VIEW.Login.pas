@@ -92,7 +92,7 @@ end;
 
 procedure TVIEW_Login.BitBtn1Click(Sender: TObject);
 begin
-   if not (Medt_Senha.Text = '1-1001') then
+   if not (Medt_Senha.Text = '1001') then
    begin
         Controller_Usuarios.DAO.Get('', Edt_Nome_Usuario.Text, '' , 'NAO');
       Controller_Usuarios.LoadGet;

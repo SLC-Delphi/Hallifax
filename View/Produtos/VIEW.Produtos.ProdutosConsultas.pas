@@ -504,7 +504,7 @@ end;
 
 procedure TView_ProdutosConsulta.SpBt_LixeiraClick(Sender: TObject);
 Begin
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       Form_Confirmalixeira := TForm_Confirmalixeira.Create(Nil);
@@ -531,7 +531,7 @@ end;
 
 procedure TView_ProdutosConsulta.SpBt_NovoClick(Sender: TObject);
 begin
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       View_ProdutosDados := TView_ProdutosDados.Create(Nil);
@@ -557,7 +557,7 @@ end;
 
 procedure TView_ProdutosConsulta.SpBtn_EditarClick(Sender: TObject);
 begin
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       View_ProdutosDados := TView_ProdutosDados.Create(Nil);
@@ -582,7 +582,7 @@ end;
 procedure TView_ProdutosConsulta.spBtn_EstoqueClick(Sender: TObject);
 begin
 //View_ProdutosEstoque
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       View_ProdutosEstoque := TView_ProdutosEstoque.Create(Nil);
@@ -605,7 +605,7 @@ end;
 
 procedure TView_ProdutosConsulta.spBtn_PrecoClick(Sender: TObject);
 begin
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       View_ProdutosPreco := TView_ProdutosPreco.Create(Nil);
@@ -700,7 +700,7 @@ end;
 
 procedure TView_ProdutosConsulta.SpBt_LancarClick(Sender: TObject);
 begin
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       View_ProdutosManutencao := TView_ProdutosManutencao.Create(Nil);
@@ -738,7 +738,7 @@ end;
 
 procedure TView_ProdutosConsulta.SpBt_AlterarrClick(Sender: TObject);
 begin
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       View_ProdutosManutencao := TView_ProdutosManutencao.Create(Nil);
@@ -769,7 +769,7 @@ end;
 
 procedure TView_ProdutosConsulta.SpBt_EncerrarClick(Sender: TObject);
 begin
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       View_ProdutosManutencao := TView_ProdutosManutencao.Create(Nil);
@@ -798,7 +798,7 @@ end;
 
 procedure TView_ProdutosConsulta.SpBt_CancelarClick(Sender: TObject);
 begin
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       View_ProdutosManutencao := TView_ProdutosManutencao.Create(Nil);

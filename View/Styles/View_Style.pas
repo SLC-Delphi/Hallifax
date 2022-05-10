@@ -110,7 +110,7 @@ end;
 
 Procedure Principal_Light;
 begin
-   BACKGROUNDTOP := GRAY;
+   BACKGROUNDTOP := $00898989;   // Gray
    BACKGROUND := LIGHTSILVER;
    EDITDATA := LIGHTSILVER;
    GRIDTITLE := MEDIUMGRAY;

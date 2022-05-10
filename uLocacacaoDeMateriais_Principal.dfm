@@ -33,7 +33,6 @@ object _Frm_Principal: T_Frm_Principal
     ParentBackground = False
     ShowCaption = False
     TabOrder = 0
-    ExplicitWidth = 1244
     object La_NomeSistema: TLabel
       Left = 2
       Top = 6
@@ -81,7 +80,6 @@ object _Frm_Principal: T_Frm_Principal
         end>
       ShowCaption = False
       TabOrder = 0
-      ExplicitLeft = 694
       DesignSize = (
         550
         48)
@@ -685,7 +683,7 @@ object _Frm_Principal: T_Frm_Principal
     Top = 83
     Width = 335
     Height = 525
-    Color = clGray
+    Color = 9999508
     DrawingStyle = gdsGradient
     GradientEndColor = clRed
     GradientStartColor = clMaroon
@@ -716,7 +714,7 @@ object _Frm_Principal: T_Frm_Principal
     Top = 83
     Width = 335
     Height = 525
-    Color = clGray
+    Color = 9999508
     DrawingStyle = gdsGradient
     GradientEndColor = 2146559
     GradientStartColor = 30103
@@ -747,7 +745,7 @@ object _Frm_Principal: T_Frm_Principal
     Top = 83
     Width = 335
     Height = 525
-    Color = clGray
+    Color = 9999508
     DrawingStyle = gdsGradient
     GradientEndColor = clGreen
     GradientStartColor = 4210688

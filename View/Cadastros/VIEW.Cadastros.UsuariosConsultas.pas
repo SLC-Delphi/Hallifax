@@ -304,7 +304,7 @@ end;
 procedure TView_UsuariosConsultas.SpBt_NovoClick(Sender: TObject);
 begin
 //   Pa_Top.Color := Self.Color;
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       View_UsuariosCadastros := TView_UsuariosCadastros.Create(Nil);
@@ -329,7 +329,7 @@ end;
 procedure TView_UsuariosConsultas.SpBtn_EditarClick(Sender: TObject);
 begin
 //  Pa_Top.Color := Self.Color;
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       View_UsuariosCadastros := TView_UsuariosCadastros.Create(Nil);
@@ -354,7 +354,7 @@ end;
 
 procedure TView_UsuariosConsultas.spBtn_PermissoesClick(Sender: TObject);
 begin
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       Controller_Usuarios.LoadGet;
@@ -379,7 +379,7 @@ end;
 
 procedure TView_UsuariosConsultas.SpBt_LixeiraClick(Sender: TObject);
 begin
-   Self.AlphaBlendValue := 128;
+   Self.AlphaBlendValue := 198;
    Self.Repaint;
    try
       Form_Confirmalixeira := TForm_Confirmalixeira.Create(Nil);
